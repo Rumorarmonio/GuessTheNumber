@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="game">start</string>
+    <string name="num2">pls type the second number</string>
+    <string name="num1">pls type the first number</string>
+    <string name="yes">sir yes sir</string>
+    <string name="no">sir no sir</string>
+</resources>
